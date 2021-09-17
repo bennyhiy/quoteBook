@@ -2,7 +2,10 @@ Strength trhough strugle - Michel Choi
 <<<<<<< HEAD
 I like blue - Jay Patel
 =======
+<<<<<<< HEAD
 I like green - Jay Somthing
+=======
+>>>>>>> personal_color
 >>>>>>> personal_quotes
 
 Live long and prosper - Spock
