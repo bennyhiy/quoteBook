@@ -1,0 +1,15 @@
+Strength trhough strugle - Michel Choi
+<<<<<<< HEAD
+I like blue - Jay Patel
+=======
+<<<<<<< HEAD
+I like green - Jay Somthing
+=======
+>>>>>>> personal_color
+>>>>>>> personal_quotes
+
+Live long and prosper - Spock
+
+Jay acctually  likes  black - Jay Somthing
+
+The best way to predict the future is to create it - Peter Drucker
